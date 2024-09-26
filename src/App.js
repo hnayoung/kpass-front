@@ -7,7 +7,7 @@ import { Row, Col } from 'react-bootstrap';
 import SearchBox from './component/SearchBox';
 import SearchList from './component/SearchList';
 import ContactForm from './component/SearchPlace';
-
+import './App.css';
 
 
 const App = () => {
